@@ -4,7 +4,7 @@ Proyecto desarrollado en Python aplicando principios de Programación Orientada 
 
 ---
 
-## 👤 Autor
+
 
 * **Estudiante:** Bryan Jair Grefa Alvarado
 
